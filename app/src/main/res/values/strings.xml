@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">The Orlando Florida Tour Guide App</string>
+
+    <!-- Category name for phrases [CHAR LIMIT=20] -->
+    <string name="category_greeting">Welcome to Orlando!</string>
+
+    <string name="category_restaurants">Restaurants</string>
+
+    <!-- Category name for the vocabulary words for colors [CHAR LIMIT=20] -->
+    <string name="category_themeparks">Theme Parks</string>
+
+    <!-- Category name for the vocabulary words for numbers [CHAR LIMIT=20] -->
+    <string name="category_golf">Golf</string>
+
+    <!-- Category name for the vocabulary words for family members [CHAR LIMIT=20] -->
+    <string name="category_things_to_do">Things to Do!</string>
+    <!-- Theme Park ArrayList Strings -->
+    <string name="category_theme_park_loc1">Universal Studio\'s</string>
+    <string name="category_theme_park_des1">The place where movies come alive!</string>
+    <string name="category_theme_park_loc2">Disney World</string>
+    <string name="category_theme_park_desc2">Your favoirte Disney characters live here!</string>
+    <string name="category_theme_park_loc3">Sea World of Orlando</string>
+    <string name="category_theme_park_desc3">Marine life and aquatic adventures await!</string>
+    <!-- Golf ArrayList Strings -->
+    <string name="category_golf_loc1">Ritz-Carlton</string>
+    <string name="category_golf_desc1">4012 Central Florida Parkway, Orlando, FL</string>
+    <string name="category_golf_loc2">Metro West Golf Club</string>
+    <string name="category_golf_desc2">2100 S. Hiawassee Rd. Orlando, FL</string>
+    <string name="category_golf_loc3">Shingle Creek Golf Club</string>
+    <string name="category_golf_desc3">9939 Universal Blvd. Orlando, FL</string>
+    <!-- Restaurants ArrayList Strings -->
+    <string name="category_restaurants_loc1">Charley\'s Steak House</string>
+    <string name="category_restaurants_desc1">Family-owned and operated since 1974</string>
+    <string name="category_restaurants_loc2">The Capital Grille</string>
+    <string name="category_restaurants_desc2">Private Dinning Experience</string>
+    <string name="category_restaurants_loc3">Roy\'s</string>
+    <string name="category_restaurants_desc3">Seafood, Steak and Sushi</string>
+    <!-- Things to Do! ArrayList Strings -->
+    <string name="category_things_loc1">Daytona 500</string>
+    <string name="category_things_desc1">Family fun for all!</string>
+    <string name="category_things_loc2">Gator Land</string>
+    <string name="category_things_desc2">Learn about Florida gators!</string>
+    <string name="category_things_loc3">Surfing</string>
+    <string name="category_things_desc3">Head to a beach and enjoy the surf!</string>
+</resources>
